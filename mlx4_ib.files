@@ -1,0 +1,4 @@
+%defattr(644,root,root,755)
+/lib/modules/%2-%1
+/etc/depmod.d/mlx4_ib.conf
+/usr/share/doc/kmod-mlx4_ib/greylist.txt
